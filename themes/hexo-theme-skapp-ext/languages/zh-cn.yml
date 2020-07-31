@@ -1,18 +1,19 @@
 menu:
   home: 首页
-  article: 文章
+  article: 项目
   works: 作品
   music: 音乐
   about: 关于
   docs: 文档
+  search: 搜索
   archive: 归档
   tags: 标签
 
 aside:
   introduction: 简介
-  categorie: 文章分类
-  tag: 文章标签
-  latest_post: 最新文章
+  categorie: 项目分类
+  tag: 项目标签
+  latest_post: 最新项目
   friend_links: 友情链接
 
 footer:

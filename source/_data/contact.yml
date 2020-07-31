@@ -1,0 +1,21 @@
+- title: smallzh
+  icon: icon-smallzh
+  link: https://smallzh.top
+- title: yuque
+  icon: icon-yuque
+  link: https://www.yuque.com/smallzh
+- title: bokeyuan
+  icon: icon-bokeyuan
+  link: https://www.cnblogs.com/smallzh
+- title: gitee
+  icon: icon-gitee
+  link: https://smallzh.gitee.io
+- title: github
+  icon: icon-github
+  link: https://smallzh.github.io
+- title: email
+  icon: icon-email
+  link: smallzh@yeah.net
+# - title: zhihu
+#   icon: icon-zhihu
+#   link: javascript:;

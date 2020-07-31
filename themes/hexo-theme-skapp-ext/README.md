@@ -1,8 +1,8 @@
-## hexo-theme-skapp
+## hexo-theme-skapp-ext
 
 ### 项目简介
 
-项目为 hexo 主题 skapp。
+项目为 hexo 主题 skapp-ext，是基于 [skapp][skapp] 修改完成的。
 
 附上预览地址： [demo][demo]
 
@@ -25,10 +25,10 @@
 使用 git 将主题 clone 至你的 hexo 博客项目下的 themes 文件夹下
 
 ``` shell
-cd themes && git clone https://github.com/Mrminfive/hexo-theme-skapp.git
+cd themes && git clone https://gitee.com/smallZh/hexo-theme-skapp-ext.git
 ```
 
-clone 完后将根目录下的 `_config.yml` 文件中的 `theme` 字段设置为 `hexo-theme-skapp`，同时安装对应 node 依赖：
+clone 完后将根目录下的 `_config.yml` 文件中的 `theme` 字段设置为 `hexo-theme-skapp-ext`，同时安装对应 node 依赖：
 
 ``` shell
 npm install --save hexo-autoprefixer hexo-filter-cleanup hexo-generator-feed hexo-generator-sitemap hexo-renderer-sass hexo-renderer-swig mamboer/lunr.js moment node-sass object-assign
@@ -142,61 +142,59 @@ layout: error
 ``` yml
 # Site
 # 博客的标题
-title: MINFIVE
+title: smallzh
 
 # banner显示的子标题
-subtitle: MINFIVE BLOG
+subtitle: smallzh projects
 
 # banner显示的简短介绍
 subtitle_desc: 日常学习与兴趣交流
 
 # seo关键字
-keywords: minfive, minfive blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
+keywords: minfive, minfive blog, smallzh, smallzh project, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
 
 # 博客介绍（同时用于seo）
 description: 日常学习与兴趣交流的个人博客
 
 # 个人介绍
-introduction: 不思量，自难忘！
+introduction: 能看懂，会使用，就ok了！
 
-# 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
-favicon_ico: https://blog.static.minfive.com/other/favicon.ico
+# 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp-ext/source/img 目录下
+favicon_ico: https://smallzh.gitee.io/zimgs/favicon.ico
 
 # 博客的左上角logo图标，支持本地及在线两种方式
-logo: http://oo12ugek5.bkt.clouddn.com/images/logo-text-white.png
+logo: https://smallzh.gitee.io/zimgs/logo.png
 
 # 头像/二维码（用于显示在底部）二选一
-avatar: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
-# qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+# avatar: https://smallzh.gitee.io/zimgs/logo.png
+qrcode: https://smallzh.gitee.io/zimgs/qrcode.jpg
 
 # 文章的默认封面
-default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
+default_cover: https://smallzh.gitee.io/zimgs/books/poetry-poetry.jpg
 
 # header 的背景图
-header_cover: https://blog.static.minfive.com/other/banner-bg.jpg
+header_cover: https://smallzh.gitee.io/zimgs/books/dream-big.jpg
 
 # 404 页面的背景图
-error_page_bg: https://blog.static.minfive.com/other/dogs.jpg
+error_page_bg: https://smallzh.gitee.io/zimgs/sky/clouds-bw.jpg
 
 # 页面加载loading图标
-loader_img: https://blog.static.minfive.com/other/loader.gif
+loader_img: https://smallzh.gitee.io/zimgs/loader.gif
 
 # 站长信息
 author:
-  name: minfive
-  link: https://github.com/Mrminfive
+  name: smallzh
+  link: https://smallzh.gitee.io
 # 用于页面 footer 的站长信息
 about:
-  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
-  address: Guangzhou, Guangdong Province, China
-  email: chenxiaowu1994@outlook.com
+  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于记录仓库的项目信息
+  address: Beijing, chaoyang, China
+  email: smallzh@yeah.net
 ```
 
 #### 联系方式
 
 在 `/source/_data` 目录下创建 `contact.yml` 文件将在页面底部生成相应的标签链接，如：
-
-![contact-img][contact-img]
 
 配置内容如下：
 
@@ -206,7 +204,7 @@ about:
   link: https://github.com/Mrminfive
 - title: email
   icon: icon-email
-  link: mailto:chenxiaowu1994@outlook.com
+  link: mailto: smallzh@yeah.net
 - title: rss
   icon: icon-rss
   link: /atom.xml
@@ -231,15 +229,13 @@ about:
 
 在 `source/_data` 目录下创建 `footer_link.yml` 文件将在页面底部生成相应的外部链接列表，如：
 
-![footer-link][footer-link]
-
 配置内容如下：
 
 ```
 friend_links:
-  - name: hexo-theme-skapp
-    desc: hexo-theme-skapp
-    link: https://github.com/Mrminfive/hexo-theme-skapp
+  - name: hexo-theme-skapp-ext
+    desc: hexo-theme-skapp-ext
+    link: https://gitee.com/smallZh/hexo-theme-skapp-ext
 
 build_tools:
   - name: Hexo
@@ -249,12 +245,12 @@ build_tools:
 
 其中 `name` 表示链接的显示值，`desc` 表示链接的 `title` 值，`link` 表示跳转的链接。
 
-该文件中的每一个数组代表一列链接，数据的key 值代表对应该列的标题，如：`friend_links` 对应 `友情链接`，同时允许设置多列链接，只需要在 `hexo-theme-skapp/languages` 下的语言配置中设置好相应的对照值即可。
+该文件中的每一个数组代表一列链接，数据的key 值代表对应该列的标题，如：`friend_links` 对应 `友情链接`，同时允许设置多列链接，只需要在 `hexo-theme-skapp-ext/languages` 下的语言配置中设置好相应的对照值即可。
 
 
 #### 个性化配置
 
-主题使用 sass 预编译样式，笔者将所有基本样式参数封装在 `hexo-theme-skapp/source/scss` 下的 `_theme.scss` 文件文件中：
+主题使用 sass 预编译样式，笔者将所有基本样式参数封装在 `hexo-theme-skapp-ext/source/scss` 下的 `_theme.scss` 文件文件中：
 
 ``` scss
 /**
@@ -299,26 +295,34 @@ $z-index--top: 100                                  !default;
 每篇文章的基本配置如下：
 ```
 title: Hello World 
-cover: http://oxnuwmm3w.bkt.clouddn.com/hello-world.jpeg
+cover: https://smallzh.gitee.io/zimgs/books/poetry-poetry.jpg
 # 作者信息，多作者则设置为数组
 # 单作者
 author: 
-  nick: BruceYJ
-  link: https://www.github.com/BruceYuj
+  nick: smallzh
+  link: https://smallzh.top
 # 多作者
 author:
   - nick: BruceYJ
     link: https://www.github.com/BruceYuj
   - nick: minfive
     link: https://www.github.com/Mrminfive
+  - nick: smallzh
+    link: https://smallzh.top
 
 # 如果文章为转载文章，需要多加文章出处项
 editor:
-  name: Minfive
-  link: https://www.github.com/Mrminfive
+  name: smallzh
+  link: https://smallzh.top
 
 # 首页每篇文章的子标题
 subtitle: your subtitle
+
+# 首页的标签
+tags: your tags
+
+# 首页的分类
+categories: your categories
 ```
 title为文章的标题，cover为文章的首图和缩略图，author为文章的作者信息。
 
@@ -439,13 +443,11 @@ math:
     #cdn: //cdn.bootcss.com/KaTeX/0.7.1/katex.min.css
 ```
 
-
-[demo]: http://blog.minfive.com/
-[screenshot]: http://blog.static.minfive.com/other/Skapp.png
+[skapp]: https://github.com/Mrminfive/hexo-theme-skapp
+[demo]: https://smallzh.gitee.io
+[screenshot]: https://smallzh.gitee.io/zimgs/projects/skapp-ext.png
 [hexo]: https://hexo.io/zh-cn/
 [gitalk]: https://github.com/gitalk/gitalk
 [gitalk doc]: https://github.com/gitalk/gitalk#usage
-[contact-img]: https://blog.static.minfive.com/other/17-09-17/hexo-theme-skapp-contact.png
-[footer-link]: https://blog.static.minfive.com/other/17-09-17/hexo-theme-skapp-footer.png
 [disqus]: https://disqus.com/
 [math]: https://github.com/hexojs/hexo-math

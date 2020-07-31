@@ -1,8 +1,9 @@
 menu:
   home: Home
-  article: Article
+  article: Project
   works: Works
   music: Music
+  search: Search
   about: About
   docs: Docs
   archive: Archive
@@ -12,7 +13,7 @@ aside:
   introduction: Introduction
   categorie: Categories
   tag: Tags
-  latest_post: Latest Post
+  latest_post: Latest Project
   friend_links: Friend Links
 
 footer:

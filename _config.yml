@@ -13,38 +13,41 @@ keywords:
 language: zh-cn
 timezone: ''
 # 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
-favicon_ico: favicon.ico
+favicon_ico: https://smallzh.gitee.io/zimgs/favicon.ico
 # 博客的左上角logo图标，支持本地及在线两种方式
-logo: https://cdn.nlark.com/yuque/0/2020/png/689792/1580091405092-avatar/e515241e-8e4b-4f48-a9c0-3f41e9e4eca9.png?x-oss-process=image%2Fresize%2Cm_fill%2Cw_192%2Ch_192%2Fformat%2Cpng
+logo: https://smallzh.gitee.io/zimgs/logo.png
 # 头像/二维码（用于显示在底部）二选一
-avatar: https://cdn.nlark.com/yuque/0/2020/png/689792/1580091405092-avatar/e515241e-8e4b-4f48-a9c0-3f41e9e4eca9.png?x-oss-process=image%2Fresize%2Cm_fill%2Cw_192%2Ch_192%2Fformat%2Cpng
-# qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+# avatar: https://smallzh.gitee.io/zimgs/logo.png
+qrcode: https://smallzh.gitee.io/zimgs/qrcode.jpg
 # 文章的默认封面
-default_cover: http://oo12ugek5.bkt.clouddn.com/images/default_cover.png
+default_cover: http://smallzh.gitee.io/zimgs/books/intellectual.jpg
 # header 的背景图
-header_cover: https://blog.static.minfive.com/other/banner-bg.jpg
+header_cover: https://smallzh.gitee.io/zimgs/nature/mountains-nature.jpg
 # 404 页面的背景图
-error_page_bg: https://blog.static.minfive.com/other/dogs.jpg
+error_page_bg: https://smallzh.gitee.io/zimgs/sky/clouds-bw.jpg
 # 页面加载loading图标
-loader_img: https://blog.static.minfive.com/other/loader.gif
+loader_img: https://smallzh.gitee.io/zimgs/loader.gif
 # 站长信息
 author:
   name: smallzh
-  link: https://smallzh.github.io
+  link: https://smallzh.top
 # 用于页面 footer 的站长信息
 about:
-  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
+  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于记录github仓库的项目信息
   address: Beijing, chaoyang, China
   email: smallzh@yeah.net
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://smallzh.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+menu:
+  home: /
+  about: /about
 
 # Directory
 source_dir: source
@@ -118,7 +121,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-skapp
+theme: hexo-theme-skapp-ext
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

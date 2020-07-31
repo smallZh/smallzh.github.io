@@ -49,9 +49,9 @@
     <section class="footer__bottom">
         <div class="page__container footer__container">
             <p class="footer__copyright">©
-                <a href="https://github.com/Mrminfive/hexo-theme-skapp" target="_blank">Skapp</a> 2017 powered by
+                <a href="https://gitee.com/smallZh/hexo-theme-skapp-ext" target="_blank">Skapp-ext</a> 2020 powered by
                 <a href="http://hexo.io/" target="_blank">Hexo</a>, made by 
-                <a href="https://github.com/Mrminfive" target="_blank">minfive</a>.
+                <a href="https://smallzh.top" target="_blank">smallzh</a>.
             </p>
             <ul class="footer__social-network clearfix">
                 {% if site.data.contact %}
