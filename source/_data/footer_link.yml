@@ -1,7 +1,7 @@
 friend_links:
-  - name: gitee
-    desc: gitee
-    link: https://gitee.com/
+  - name: github
+    desc: github
+    link: https://github.com/
   - name: Hexo
     desc: Blog Framework
     link: https://hexo.io/
