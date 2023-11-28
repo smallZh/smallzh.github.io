@@ -1,0 +1,22 @@
+body {
+    /*font-size: 10px;*/
+    /*line-height: 7px;*/
+}
+
+.time-block {
+    margin-top: 15px;
+    padding-top: 10px;
+    width: 100%;
+    border-top: 1px solid beige;
+}
+
+.time-block .time-item {
+    padding: 0;
+    margin: 0;
+    text-align: right;
+}
+
+.citing-sources {
+    text-align: right;
+    color: black;
+}
