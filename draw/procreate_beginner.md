@@ -43,6 +43,9 @@
 
 <img src="/draw/_assets/procreate/beginner_1.png" alt="procreate入门系列1" style="width: 360px; height: 300px" />
 
+## 2、调色板、快捷图形
+视频连接[https://www.bilibili.com/video/BV1LT411F7vq/](https://www.bilibili.com/video/BV1LT411F7vq/)
+
 ## 网站
 
 https://procreate.com/
