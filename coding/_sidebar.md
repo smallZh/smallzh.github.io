@@ -1,6 +1,8 @@
 * [首页](/coding/)
 * [(编程) 1. 第一行输出语句](/coding/hello_world.md)
 * [(编程) 2. 字符编码](/coding/encoding.md)
+* [(编程) 3. python海龟绘图](/coding/python_turtle.md)
+* [(编程) 4. llm理解](/coding/llm_concept.md)
 * [(备忘) 1. python环境配置](/coding/python_env.md)
 * [(备忘) 2. java环境配置](/coding/java_env.md)
 * [(备忘) 3. nodejs环境配置](/coding/nodejs_env.md)
