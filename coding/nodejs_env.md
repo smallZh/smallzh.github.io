@@ -1,4 +1,6 @@
-# NodeJs和Yarn
+# NodeJs、Yarn 和 Nvm
+
+## Window系统
 
 ## 1 NodeJs配置
 
@@ -76,3 +78,11 @@ ls
 ![](/_assets/img/notes/ne_4.png)
 
 注：命令行工具为 `NuShell`
+
+## 4 Nvm安装
+从 [https://yarnpkg.com/](https://yarnpkg.com/)下载Nvm包，进行安装
+
+## 附
+1. [https://nodejs.org/en](https://nodejs.org/en) nodejs官网
+2. [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) nvm-window版本
+3. [https://yarnpkg.com/](https://yarnpkg.com/) Yarn官网

@@ -1,4 +1,6 @@
 * [首页](/coding/)
 * [(编程) 1. 第一行输出语句](/coding/hello_world.md)
 * [(编程) 2. 字符编码](/coding/encoding.md)
-* [(备忘) 1. nodejs环境配置](/coding/nodejs_env.md)
+* [(备忘) 1. python环境配置](/coding/python_env.md)
+* [(备忘) 2. java环境配置](/coding/java_env.md)
+* [(备忘) 3. nodejs环境配置](/coding/nodejs_env.md)
