@@ -20,3 +20,8 @@
 1.
 Chinese-LLaMA-Alpaca-3
 : github地址[https://github.com/ymcui/Chinese-LLaMA-Alpaca-3](https://github.com/ymcui/Chinese-LLaMA-Alpaca-3)
+
+---
+GPU算力租用服务器
+1.
+潞晨云文档: [https://cloud.luchentech.com/doc/docs/intro](https://cloud.luchentech.com/doc/docs/intro)
