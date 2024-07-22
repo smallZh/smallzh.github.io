@@ -1,6 +1,3 @@
 ## smallzh's notes
 
-[Github](http://github.com/smallzh)
-[Gitee](https://gitee.com/smallZh)
-
-![logo](_assets/background.jpg)
+![logo](_assets/background_1.jfif)
