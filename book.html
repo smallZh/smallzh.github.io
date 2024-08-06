@@ -72,6 +72,12 @@
 
     }
 
+
+    function getURLParameter(name) {
+        var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+        return results ? decodeURIComponent(results[1]) : undefined;
+    }
+
     var fontsize = 16;
 
     var bigFont = document.getElementById("big_font")
@@ -98,7 +104,15 @@
 
     });
 
-    var book = ePub("_assets/resources/linux.epub");
+    var book_name = 'linux.epub';
+    var name = getURLParameter("name");
+    if (name && 'lr' == name) {
+        book_name = 'learn_re.epub';
+    } else if (name && 'pr' == name) {
+        book_name = 'proficiency_re.epub';
+    }
+
+    var book = ePub("_assets/resources/" + book_name);
 
     var rendition = book.renderTo("read", {
         // default double page
