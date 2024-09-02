@@ -15,7 +15,3 @@
 知识体系：
 
 ![](./imgs/knowledge_system.jpg)
-
-有趣的图:
-
-![](./imgs/youqu.jpg)
