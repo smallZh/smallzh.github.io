@@ -5,7 +5,3 @@
 * [(机器学习) 4. NLP中的分词](/coding/nlp_tokenizer.md)
 * [(机器学习) 5. llm理解](/coding/llm_concept.md)
 * [(机器学习) 6. mobile-aloha机器人](/coding/mobile_aloha.md)
-* [(系统) 1. Linux概述](/coding/linux.md)
-* [(备忘) 1. python环境配置](/coding/python_env.md)
-* [(备忘) 2. java环境配置](/coding/java_env.md)
-* [(备忘) 3. nodejs环境配置](/coding/nodejs_env.md)

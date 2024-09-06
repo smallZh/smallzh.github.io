@@ -14,4 +14,4 @@
 
 知识体系：
 
-![](./imgs/knowledge_system.jpg)
+![](_assets/imgs/knowledge_system.jpg)
