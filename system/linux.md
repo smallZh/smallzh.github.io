@@ -11,6 +11,16 @@
 2. 管道思想
 3. 文件的权限
 
+# Linux操作系统
+
+包含Linux系统相关知识，主要以Debain进行说明。
+
+linux系统
+
+linux是一个多用户，多任务操作系统
+
+linux系统用户管理和文件管理两个部分
+
 ## 网址
 1. https://www.fsf.org
 2. http://www.gnu.org
