@@ -17,11 +17,26 @@
         repo: 'https://github.com/smallzh',
         coverpage: true,
         loadSidebar: true,
-        subMaxLevel: 2
+        subMaxLevel: 2,
+        search: {
+            paths: 'auto',
+            placeholder: {
+                '/zh-cn/': '搜索',
+                '/': 'Type to search',
+            },
+            noData: {
+                '/zh-cn/': '找不到结果',
+                '/': 'No Results',
+            },
+            depth: 2,
+            hideOtherSidebarContent: false,
+            namespace: 'small_zh_top_ws',
+        }
     }
 </script>
 <!-- Docsify v4 -->
 <script src="./_assets/js/docsify.js"></script>
 <script src="./_assets/js/navigate.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
