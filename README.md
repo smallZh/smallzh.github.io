@@ -2,28 +2,31 @@
 
 > --- 你所相信的“东西”，就是“你的世界”的基石...
 
-# 0x01.编程
+# 1.编程
 1、 [需认真理解的概念](/coding/)
 
-# 0x02.系统
+# 2.系统
 1、 [需认真思考的概念](/system/)
 
-# 0x03.网络
+# 3.网络
 1、 [需认真思考的概念](/network/)
 
-# 0x04.数据库
+# 4.数据库
 1、 [MySql](/database/mysql8/)
+
 2、 [Elastic](/database/elastic/)
 
-# 0x05.Github项目
+# 5.Github项目
 1、[项目合集](/github_repo.md)
 
-# 0x11.面试
+# 0xA.面试
 1、 [面试题合集](/interview/)
    
-# 0x12.趣图
+# 0xB.趣图
 1、 [你看到了什么](/qu_img/tizi)
 
+# 0xC.精句
+1、 [英文精句](/significance/english)
 
 # links
 [https://docsify.js.org](https://docsify.js.org/#/)
