@@ -2,6 +2,8 @@
 
 RK61是一个只有**61键的机械键盘**
 
+![rk61](./_assets/rk61.png)
+
 官网：[RK61](https://www.rkgaming.com/product/11/)
 
 ## 0x01. 功能键
