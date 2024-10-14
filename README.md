@@ -19,6 +19,9 @@
 # 5.Github项目
 1、[项目合集](/github_repo.md)
 
+# 6. DIY项目
+1、[Nas组装](/diy/nas-refix/)
+
 # 0xA.面试
 1、 [面试题合集](/interview/)
    
