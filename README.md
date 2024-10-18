@@ -16,8 +16,10 @@
 
 2、 [Elastic](/database/elastic/)
 
-# 5.Github项目
-1、[项目合集](/github_repo.md)
+# 5.其他
+1、[Github项目合集](/github_repo.md)
+
+2、[好用的工具合集](/tool_repo.md)
 
 # 6. DIY项目
 1、[Nas改装](/diy/nas-refix/)

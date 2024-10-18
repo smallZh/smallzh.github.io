@@ -69,6 +69,13 @@ yarn global dir
 ```
 ![](/_assets/img/notes/ne_3.png)
 
+### 4 修改配置，切换国内源，并关闭ssl验证
+```shell
+yarn config list
+yarn config set registry https://registry.npm.taobao.org
+yarn config set strict-ssl false
+```
+
 ## 3 最终NodeJs安装目录内容
 ```shell
 cd D:\nodejs\
