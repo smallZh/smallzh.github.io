@@ -33,5 +33,7 @@
 # 0xC.精句
 1、 [英文精句](/significance/english)
 
+2、 [中文精句](/significance/chinese)
+
 # links
 [https://docsify.js.org](https://docsify.js.org/#/)

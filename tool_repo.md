@@ -32,3 +32,4 @@
 |序号|名称|官网|说明|
 |---|---|---|---|
 |1|rufus|https://rufus.ie/|USB启动工具|
+|2|ventoy|https://github.com/ventoy/Ventoy|制作可启动U盘的开源工具|
