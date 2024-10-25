@@ -37,3 +37,4 @@
 
 # links
 [https://docsify.js.org](https://docsify.js.org/#/)
+[https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)

@@ -28,7 +28,13 @@
 |3|krita|https://krita.org/|绘图软件|
 |4|rnote|https://github.com/flxzt/rnote|图形化笔记|
 
-## 0x05.装机工具
+## 0x05.图形绘制工具
+|序号|名称|官网|说明|
+|---|---|---|---|
+|1|Mermaid|https://mermaid.js.org/intro/syntax-reference.html|用文本创建图形|
+|2|excalidraw|https://excalidraw.com/|在线的图形绘制工具|
+
+## 0x06.装机工具
 |序号|名称|官网|说明|
 |---|---|---|---|
 |1|rufus|https://rufus.ie/|USB启动工具|
