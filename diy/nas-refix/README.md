@@ -94,6 +94,25 @@ Nas，网络附加存储器，说白点，不就是 `多块硬盘 + 一台低配
 
 ## 改装过程
 
+<img src="/_assets/img/diy/refit_nas/disk-1.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-2.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-3.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-4.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-6.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-7.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-9.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-10.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-12.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-13.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-14.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-15.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-16.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-17.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-18.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-19.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/disk-20.jpeg" width="200" height="200" />
+
+
 ## 散热改装
 
 笔记本电脑本身的散热器长这样
@@ -114,7 +133,37 @@ Nas，网络附加存储器，说白点，不就是 `多块硬盘 + 一台低配
 
 因为笔记本电脑的散热器更像是定制的，不兼容这种通用的散热器，因此，散热器的固定，就成了一个头大的问题。
 
+<img src="/_assets/img/diy/refit_nas/disk-1.jpeg"/>
+<img src="/_assets/img/diy/refit_nas/disk-2.jpeg" />
+<img src="/_assets/img/diy/refit_nas/disk-5.jpeg" />
+<img src="/_assets/img/diy/refit_nas/disk-8.jpeg"/>
+
 # 外壳设计的艰辛路
+
+先用软件[QCAD](https://qcad.org)设计出外壳的形状，然后导出成PDF文件，发给亚克力板商家进行制作。
+
+因为QCAD专业版每次只能试用30分钟，而我只是业余使用，所以，就每设计一点保存一点，30分钟后重新再打开软件。
+
+设计图文件如下：
+
+<a href="/_assets/img/diy/refit_nas/design-test/NAS机箱.dxf">QCAD学习</a>
+
+<a href="/_assets/img/diy/refit_nas/design/nas-v1.dxf">外形设计</a>
+外形图最终如下：
+
+<img src="/_assets/img/diy/refit_nas/design/nas-v1.png" />
+
+<img src="/_assets/img/diy/refit_nas/shape-1.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-2.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-3.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-4.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-5.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-6.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-7.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-8.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-9.jpeg" width="200" height="200" />
+<img src="/_assets/img/diy/refit_nas/shape-10.jpeg" width="200" height="200" />
+
 
 # 最终成果和总花费
 
@@ -122,8 +171,13 @@ Nas，网络附加存储器，说白点，不就是 `多块硬盘 + 一台低配
 
 在咬牙的坚持下，最终将笔记本改成了Nas，来两个大图展示一下
 
-<img src="/_assets/img/diy/refit_nas/7-1.jpg" width="365" height="365" />
-<img src="/_assets/img/diy/refit_nas/7-2.jpg" width="365" height="365" />
+<img src="/_assets/img/diy/refit_nas/result-1.jpg" width="365" height="365" />
+<img src="/_assets/img/diy/refit_nas/result-2.jpg" width="365" height="365" />
+<img src="/_assets/img/diy/refit_nas/result-3.jpeg" width="365" height="365" />
+<img src="/_assets/img/diy/refit_nas/result-4.jpeg" width="365" height="365" />
+
+
+<img src="/_assets/img/diy/refit_nas/disk-11.jpeg" />
 
 开机后的耗电情况，最开始启动时，功率大概在70w左右，稳定运行后，功率在43w左右
 
@@ -143,11 +197,25 @@ Nas，网络附加存储器，说白点，不就是 `多块硬盘 + 一台低配
 |---|---|---|
 |螺丝刀|20.86|<img src="/_assets/img/diy/refit_nas/2-4.jpg" width="100" height="100" />|
 |计量插座|27.8|<img src="/_assets/img/diy/refit_nas/7-5.jpg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-1.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-2.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-3.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-4.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-5.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-6.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-7.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-8.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-9.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-10.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-11.jpeg" width="100" height="100" />|
+|计量插座|27.8|<img src="/_assets/img/diy/refit_nas/tool-12.jpeg" width="100" height="100" />|
 
 ### 硬盘花费
 
 |名称|金额|图片|
 |---|---|---|
+|日立2T|140.65|<img src="/_assets/img/diy/refit_nas/disk-14.jpeg"/>|
+|企业4T|214.29|<img src="/_assets/img/diy/refit_nas/disk-18.jpeg"/>|
 
 ### 配件花费
 
