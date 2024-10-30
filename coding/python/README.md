@@ -28,7 +28,7 @@ import this
 ```
 会出现如下一段话：
 
-![Python之禅](/assets/software/language/python/index_1.jpg)
+![Python之禅](./_assets/index_1.jpg)
 
 ## 参考
 [英文解释](https://inventwithpython.com/blog/2018/08/17/the-zen-of-python-explained/#:~:text=a%20bad%20idea.-,If%20the%20implementation%20is%20easy%20to%20explain%2C%20it%20may%20be,programmers%20who%20maintain%20the%20code)
