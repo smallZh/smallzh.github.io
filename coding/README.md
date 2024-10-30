@@ -11,5 +11,8 @@
 
 1、 [字符编码，为啥乱码了?](/coding/encoding.md)
 
+## 语言
+1、[Python](/coding/python/README.md)
+
 ## 备忘
 1、 [nodejs环境配置](/coding/nodejs_env.md)
