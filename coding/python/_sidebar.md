@@ -13,6 +13,7 @@
 * [pip](/coding/python/pip.md)
 * [setup](/coding/python/setup.md)
 * [Flask](/coding/python/flask.md)
+* [SQLAlchemy](/coding/python/sqlalchemy.md)
 * [streamlit](/coding/python/streamlit.md)
 * [scapy](/coding/python/scapy.md)
 * [数学库](/coding/python/math_lib.md)

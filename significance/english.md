@@ -7,6 +7,7 @@
 4. If one dream should fall and break into a thousand pieces, never be afraid to pick one of those pieces up and begin again.
 5. Long-term consistency trumps short-term intensity. 
 6. adventure may hurt you, but monotony will kill you.
+7. Success isn’t about how your life looks to others. It’s about how it feels to you.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
