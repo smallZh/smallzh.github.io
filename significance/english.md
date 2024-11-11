@@ -8,6 +8,7 @@
 5. Long-term consistency trumps short-term intensity. 
 6. adventure may hurt you, but monotony will kill you.
 7. Success isn’t about how your life looks to others. It’s about how it feels to you.
+8. Your goals are the road maps that guide you and show you what is possible for your life.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -22,3 +23,4 @@
 9. intensity: *n*，n：强度；强烈；紧张；烈度；剧烈
 10. adventure: *n/v*，n：冒险；奇遇；冒险经历；冒险的刺激；大胆开拓；v：<旧>探险；<旧>冒险；大胆说出
 11. monotony: *n*，n：单调；千篇一律
+12. road map: *n*，n：指南；(尤指为开车者设计的)公路交通图
