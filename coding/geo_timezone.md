@@ -14,9 +14,9 @@
 
 如果从**地球北极**的视角来看，地球就是**逆时针**的转动。
 
-![](/assets/img/concept/geo_timezone_1.jpg)
+![](/_assets/img/concept/geo_timezone_1.jpg)
 
-![](/assets/img/concept/geo_timezone_2.jpg)
+![](/_assets/img/concept/geo_timezone_2.jpg)
 
 面向太阳的是白天，背对太阳的就是黑夜，可以想象着有一个垂直于太阳的切面，就可以看出
 
