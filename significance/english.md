@@ -9,6 +9,7 @@
 6. adventure may hurt you, but monotony will kill you.
 7. Success isn’t about how your life looks to others. It’s about how it feels to you.
 8. Your goals are the road maps that guide you and show you what is possible for your life.
+9. When you talk, you are only repeating what you already know. But if you listen, you may learn something new.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -24,3 +25,4 @@
 10. adventure: *n/v*，n：冒险；奇遇；冒险经历；冒险的刺激；大胆开拓；v：<旧>探险；<旧>冒险；大胆说出
 11. monotony: *n*，n：单调；千篇一律
 12. road map: *n*，n：指南；(尤指为开车者设计的)公路交通图
+13. repeat: *v/n*，v：重复；复述，跟读（尤指为学习）；（强调说过的话）再说一遍；重复发生；再次发生；重做；重写；转述；重说；留有余味；重新推出；n：重复的事件；重复段；反复部分；重播的电视(或广播)节目；重演的事物
