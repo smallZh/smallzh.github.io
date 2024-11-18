@@ -12,6 +12,7 @@
 * [命令行](/coding/python/command_line.md)
 * [pip](/coding/python/pip.md)
 * [setup](/coding/python/setup.md)
+* [海龟绘图](/coding/python/python_turtle.md)
 * [Flask](/coding/python/flask.md)
 * [SQLAlchemy](/coding/python/sqlalchemy.md)
 * [streamlit](/coding/python/streamlit.md)

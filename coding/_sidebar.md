@@ -1,8 +1,4 @@
 * [首页](/coding/)
-* [(编程) 1. 第一行输出语句](/coding/hello_world.md)
-* [(编程) 2. 字符编码](/coding/encoding.md)
-* [(编程) 3. 时区](/coding/geo_timezone.md)
-* [(编程) 3. python海龟绘图](/coding/python_turtle.md)
 * [(机器学习) 4. NLP中的分词](/coding/nlp_tokenizer.md)
 * [(机器学习) 5. llm理解](/coding/llm_concept.md)
 * [(机器学习) 6. mobile-aloha机器人](/coding/mobile_aloha.md)

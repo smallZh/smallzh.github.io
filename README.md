@@ -2,27 +2,27 @@
 
 > --- 你所相信的“东西”，就是“你的世界”的基石...
 
-# 1.编程
-1、 [需认真理解的概念](/coding/)
+# 1. 编程
 
-# 2.系统
-1、 [需认真思考的概念](/system/)
+1.1 [基础概念](/concept/)
 
-# 3.网络
-1、 [需认真思考的概念](/network/)
+1.2 [理解编程语言](/coding/)
 
-# 4.数据库
-1、 [MySql](/database/mysql8/)
+1.3 [懂点操作系统](/system/)
 
-2、 [Elastic](/database/elastic/)
+1.4 [学点网络知识](/network/)
 
-# 5.其他
-1、[Github项目合集](/github_repo.md)
+1.5 [操作MySql](/database/mysql8/)
 
-2、[好用的工具合集](/tool_repo.md)
+1.6 [操作Elastic](/database/elastic/)
 
-# 6. DIY项目
-1、[Nas改装](/diy/nas-refix/)
+# 2.其他
+2.1 [Github项目合集](/github_repo.md)
+
+2.2 [好用的工具合集](/tool_repo.md)
+
+# 3. DIY项目
+3.1 [Nas改装](/diy/nas-refix/)
 
 # 0xA.面试
 1、 [面试题合集](/interview/)
@@ -37,4 +37,5 @@
 
 # links
 [https://docsify.js.org](https://docsify.js.org/#/)
+
 [https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
