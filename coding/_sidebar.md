@@ -1,4 +1,6 @@
 * [首页](/coding/)
+  * [Python](/coding/python/)
+  * [Sql](/coding/sql/)
 * [(机器学习) 4. NLP中的分词](/coding/nlp_tokenizer.md)
 * [(机器学习) 5. llm理解](/coding/llm_concept.md)
 * [(机器学习) 6. mobile-aloha机器人](/coding/mobile_aloha.md)

@@ -39,3 +39,10 @@
 |---|---|---|---|
 |1|rufus|https://rufus.ie/|USB启动工具|
 |2|ventoy|https://github.com/ventoy/Ventoy|制作可启动U盘的开源工具|
+
+## 0x07.电脑硬件检测工具
+|序号|名称|官网|说明|
+|---|---|---|---|
+|1|CPU-Z|https://www.cpuid.com/softwares/cpu-z.html/|Window硬件检测工具|
+|2|RM Toolbox|https://github.com/weiyourumeng/RM-Toolbox|Window硬件检测工具|
+|3|GPU-Z|https://www.techpowerup.com/gpuz/#fromgpuz|Window下显卡检测工具|

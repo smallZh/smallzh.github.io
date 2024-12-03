@@ -10,6 +10,10 @@
 7. Success isn’t about how your life looks to others. It’s about how it feels to you.
 8. Your goals are the road maps that guide you and show you what is possible for your life.
 9. When you talk, you are only repeating what you already know. But if you listen, you may learn something new.
+10. If you lose, don't lose the lesson. 
+11. Don’t be pushed by your problems. Be led by your dreams.
+12. If you want to awaken all of humanity, awaken all of yourself.
+13. It takes as much energy to wish as it does to plan.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -26,3 +30,7 @@
 11. monotony: *n*，n：单调；千篇一律
 12. road map: *n*，n：指南；(尤指为开车者设计的)公路交通图
 13. repeat: *v/n*，v：重复；复述，跟读（尤指为学习）；（强调说过的话）再说一遍；重复发生；再次发生；重做；重写；转述；重说；留有余味；重新推出；n：重复的事件；重复段；反复部分；重播的电视(或广播)节目；重演的事物
+14. lose: *v*，v：失去；(因事故、年老、死亡等)丧失；丢失；降低；遗失；浪费（时间）；（钟、表）走慢，慢（若干时间）；被打败；逃避；不明白；被…夺去；被迫放弃；（使）失去（所需要的东西，尤指钱）；使弄不懂
+15. led: *v*，v：引领；通向；通往；(与…)相连，相通；带路；领路；lead的过去分词和过去式
+16. awaken: *v*，v：(使)醒来；唤起；被唤起
+17. wish: *v/n*，v：希望；祝；想要；盼望；企求；怀着(不可能实现的)愿望；n：希望；愿望；愿；祝愿，祝福；心愿；想要的东西；希望的事
