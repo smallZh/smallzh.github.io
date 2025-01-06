@@ -14,6 +14,15 @@
 11. Don’t be pushed by your problems. Be led by your dreams.
 12. If you want to awaken all of humanity, awaken all of yourself.
 13. It takes as much energy to wish as it does to plan.
+14. Your capacity to say ‘No’ determines your capacity to say ‘Yes’ to greater things.
+15. Everyone you will ever meet knows something you don't.
+16. Though you cannot go back and start again, you can start from now and have a brand new end.
+17. Never underestimate your problem or your ability to deal with it.
+18. We cannot teach people anything. We can only help them discover it within themselves.
+19. To be wronged is nothing unless you continue to remember it.
+20. Life is a succession of lessons which must be lived to be understood.
+21. The biggest mistake people make in life is not trying to make a living at doing what they most enjoy.
+22. I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -34,3 +43,15 @@
 15. led: *v*，v：引领；通向；通往；(与…)相连，相通；带路；领路；lead的过去分词和过去式
 16. awaken: *v*，v：(使)醒来；唤起；被唤起
 17. wish: *v/n*，v：希望；祝；想要；盼望；企求；怀着(不可能实现的)愿望；n：希望；愿望；愿；祝愿，祝福；心愿；想要的东西；希望的事
+18. capacity: *n/adj*，n：容量；生产量，生产能力；容积，功率；<电>电容; 负载量，最高发电量；容积；职责；职位；容纳能力；领悟(或理解、办事)能力；adj：充满的，达到最大限度的；座无虚席的，满场的，挤满的
+19. ever: *adv*，adv：曾经；(进行比较时用以加强语气)以往任何时候；总是；始终；究竟，到底；不断地；(用于否定句和疑问句，或与if连用的句子)在任何时候
+20. though: *conj/adv*，conj：虽然；尽管；即使；(用于主句后，引出补充说明，使语气变弱)不过，可是，然而；adv：(尤用于句末补充说明，使语气减弱)不过，可是，然而
+21. brand new: *adj*，adj：全新的；崭新的
+22. underestimate: *vt/n*，vt：低估；对…估计不足；轻视；对…认识不足(或重视不够)；n：低估；轻视
+23. wronged: *v/adj*，v：不公正(或不诚实)对待；adj：被冤枉的；被委屈的
+24. a succession of: 连串；一系列；一系列的；一连串的
+25. lessons: *n*，n：教训；经验；课；一节课；教学单元；一课时
+26. mistake: *n/vt*，n：错误；(言语或行为上的)失误；笔误；(用词或数字等上的)口误；vt：误会；误解；看错
+27. make a living: n：谋生；维持生活
+28. expectation: n：预期；期望；希望；期待；指望；预料；盼望
+29. mine: *pron/n/v*，pron：我的；矿；n：地雷；矿；矿井；水雷；v：(在某地)开矿，采矿；布雷于；埋雷于；用雷炸毁(车辆)

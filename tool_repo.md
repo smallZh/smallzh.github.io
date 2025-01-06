@@ -33,6 +33,7 @@
 |---|---|---|---|
 |1|Mermaid|https://mermaid.js.org/intro/syntax-reference.html|用文本创建图形|
 |2|excalidraw|https://excalidraw.com/|在线的图形绘制工具|
+|3|SketchUp|https://www.sketchup.com/en|3D建模软件|
 
 ## 0x06.装机工具
 |序号|名称|官网|说明|
@@ -46,3 +47,8 @@
 |1|CPU-Z|https://www.cpuid.com/softwares/cpu-z.html/|Window硬件检测工具|
 |2|RM Toolbox|https://github.com/weiyourumeng/RM-Toolbox|Window硬件检测工具|
 |3|GPU-Z|https://www.techpowerup.com/gpuz/#fromgpuz|Window下显卡检测工具|
+
+## 0x0A.其他工具
+|序号|名称|官网|说明|
+|---|---|---|---|
+|1|Nyxt Browser|https://nyxt.atlas.engineer/|一个为"黑客"而生的浏览器|
