@@ -1,5 +1,6 @@
 * [首页](/coding/)
   * [Python](/coding/python/)
+  * [Zig](/coding/zig/)
   * [Sql](/coding/sql/)
 * [(机器学习) 4. NLP中的分词](/coding/nlp_tokenizer.md)
 * [(机器学习) 5. llm理解](/coding/llm_concept.md)
