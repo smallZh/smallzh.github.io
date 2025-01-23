@@ -23,6 +23,9 @@
 20. Life is a succession of lessons which must be lived to be understood.
 21. The biggest mistake people make in life is not trying to make a living at doing what they most enjoy.
 22. I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+23. You may be deceived if you trust too much, but you’ll live in torment if you don’t trust enough.
+24. The patterns of our lives reveal us. Our habits measure us.
+25. Until you cross the bridge of your insecurities, you can't begin to explore your possibilities.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -55,3 +58,8 @@
 27. make a living: n：谋生；维持生活
 28. expectation: n：预期；期望；希望；期待；指望；预料；盼望
 29. mine: *pron/n/v*，pron：我的；矿；n：地雷；矿；矿井；水雷；v：(在某地)开矿，采矿；布雷于；埋雷于；用雷炸毁(车辆)
+30. deceive: *v*，v：蒙骗；误导；欺骗(自己)；诓骗；使人误信
+31. torment: *n/vt*，n：折磨；(尤指精神上的)痛苦；苦难之源；vt：使痛苦；使备受折磨；纠缠；烦扰；戏弄；捉弄
+32. reveal: *v/n*，v：揭示；显示；透露；展示；露出；显出；n：启示；(汽车的)窗框；门侧；窗侧壁
+33. measure: *v/n*，v：测量，度量，计量；估量，衡量；调整，调节；〈诗〉经过（一段距离），走过；判定（重要性、价值或影响等）；斟酌，权衡；(指尺寸、长短、数量等)量度为，有……长（或宽、高等）；打量；拿（自己或自己的力量等）作较量；用作……的（计）量器；〈诗〉定……的界，为……定界；n：措施，方法；尺度，标准；判断，衡量；（一定的）量，固定量；步骤；程度；数量；比例；度量单位，计量单位，计量标准；量器，量具；议案，法令；限度，适度，分寸；〈音〉拍子，小节；〈诗〉曲调，歌曲；〈古〉（尤指缓慢而庄重的）舞蹈，舞步；已知量；标准量；〈印〉行宽，页宽
+34. insecurities: *n*,n：不牢靠；不安全；无保障；不放心；心神不定；局促不安；insecurity的复数
