@@ -8,11 +8,13 @@
 |---|---|---|---|
 |1|wintermd|https://kingtoolbox.github.io |开源的ssh客户端，可替换xshell|
 |2|winscp|https://winscp.net/eng/index.php|sftp客户端，可替代xftp|
+|3|nushell|https://www.nushell.sh/|一个支持Window、Mac、Linux的shell工具|
 
 ## 0x02.Api客户端
 |序号|名称|官网|说明|
 |---|---|---|---|
 |1|Bruno|https://www.usebruno.com/|api调用客户端，可替换postman|
+|2|hoppscotch|https://hoppscotch.io/|api调用客户端，可替换postman，[github地址](https://github.com/hoppscotch/hoppscotch)|
 
 ## 0x03.数据库工具
 |序号|名称|官网|说明|
@@ -47,6 +49,12 @@
 |1|CPU-Z|https://www.cpuid.com/softwares/cpu-z.html/|Window硬件检测工具|
 |2|RM Toolbox|https://github.com/weiyourumeng/RM-Toolbox|Window硬件检测工具|
 |3|GPU-Z|https://www.techpowerup.com/gpuz/#fromgpuz|Window下显卡检测工具|
+
+## 0x08.电脑Proxy监听工具
+|序号|名称|官网|说明|
+|---|---|---|---|
+|1|mitmproxy|https://mitmproxy.org//|proxy请求监听工具|
+|2|3proxy|https://3proxy.org/|proxy请求监听工具|
 
 ## 0x0A.其他工具
 |序号|名称|官网|说明|
