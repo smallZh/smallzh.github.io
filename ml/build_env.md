@@ -12,7 +12,7 @@
 
 Anaconda的Window、Mac安装很简单，只需下载对应的安装包，一路下一步就可以。对于Window，中间注意一下安装位置，尽量别安装到C盘，导致C盘报红，倒不是说Anaconda占用的空间大，只是说尽量避免这种能引起C盘报红的情况。
 
-![](/assets/img/ml/build_env_1.jpg)
+![](./_assets/img/ml/build_env_1.jpg)
 
 对于Linux，这里简单记录一下安装步骤。
 
@@ -51,7 +51,7 @@ source ~/.bashrc
 ```shell
 conda list
 ```
-![](/assets/img/ml/build_env_2.jpg)
+![](./_assets/img/ml/build_env_2.jpg)
 
 至此，Anaconda安装完成。
 

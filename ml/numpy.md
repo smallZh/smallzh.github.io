@@ -8,7 +8,7 @@
 
 以下是官网首页截图
 
-![](/assets/img/ml/numpy_1.jpg)
+![](./_assets/img/ml/numpy_1.jpg)
 
 翻译成中文：
 
@@ -171,9 +171,10 @@ matrix.max(axis=1)
 
 点积计算**行和列之间** 的 **乘积**之**和**，也叫矩阵乘积。
 
-::: tip 重点
+```text
+重点
 乘积之和，意思是，行和列要先乘积，再将乘积的结果求和
-:::
+``` 
 
 ```python
 import numpy as np

@@ -16,6 +16,8 @@
 
 1.6 [操作Elastic](/database/elastic/)
 
+1.7 [机器学习](/ml/)
+
 # 2.其他
 2.1 [Github项目合集](/github_repo.md)
 

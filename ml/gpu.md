@@ -25,7 +25,7 @@ import GPUtil as GPU
 GPU.showUtilization(all=True)
 ```
 
-![](/assets/img/ml/gpu_1.jpg)
+![](./_assets/img/ml/gpu_1.jpg)
 
 图中能够看出这么几种信息
 
@@ -49,11 +49,12 @@ nvidia-smi
 
 命令会输出以下信息
 
-![](/assets/img/ml/gpu_4.jpg)
+![](./_assets/img/ml/gpu_4.jpg)
 
-:::tip 提示找不到命令
+```text
+提示找不到命令
 nvidia-smi.exe可执行文件，一般在Win10的 `C:\Program Files\NVIDIA Corporation\NVSMI`目录下，将该目录加入到Path环境变量中即可
-:::
+``` 
 
 图中的`CUDA Version`这个属性很重要，我这里是`10.2`。
 
@@ -65,11 +66,11 @@ nvidia-smi.exe可执行文件，一般在Win10的 `C:\Program Files\NVIDIA Corpo
 
 从图中能看出，我这里的CUDA版本是10.2，所以下 对应 10.2的版本。
 
-![](/assets/img/ml/gpu_5.jpg)
+![](./_assets/img/ml/gpu_5.jpg)
 
 选中对应的版本，点击进入到下载详情页中，选中对应的系统版本，进行下载。我是Win10系统，选择的在线安装。
 
-![](/assets/img/ml/gpu_6.jpg)
+![](./_assets/img/ml/gpu_6.jpg)
 
 下载完成后，在安装的时候，有一个界面是选择精简还是**自定义**，选择自定义，然后一路下一步，等待安装完成就行。
 
@@ -106,8 +107,8 @@ Result = PASS
 
 从商店里选显卡时，通常会看到这些信息：
 
-<img src="/assets/img/ml/gpu_2.jpg" width="300" height="400" />
-<img src="/assets/img/ml/gpu_3.jpg" width="300" height="400" />
+<img src="./_assets/img/ml/gpu_2.jpg" width="300" height="400" />
+<img src="./_assets/img/ml/gpu_3.jpg" width="300" height="400" />
 
 其中的GTX1060-6G、GTX1070 8G、显存类型、显存容量、显存位宽，这些参数都表示啥含义？
 

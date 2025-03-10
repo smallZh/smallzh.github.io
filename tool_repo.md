@@ -53,7 +53,7 @@
 ## 0x08.电脑Proxy监听工具
 |序号|名称|官网|说明|
 |---|---|---|---|
-|1|mitmproxy|https://mitmproxy.org//|proxy请求监听工具|
+|1|mitmproxy|https://mitmproxy.org/|proxy请求监听工具|
 |2|3proxy|https://3proxy.org/|proxy请求监听工具|
 
 ## 0x0A.其他工具

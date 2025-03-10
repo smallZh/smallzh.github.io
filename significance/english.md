@@ -28,6 +28,7 @@
 25. Until you cross the bridge of your insecurities, you can't begin to explore your possibilities.
 26. Be kind whenever possible. It is always possible.
 27. You cannot start the next chapter of your life if you keep re-reading the last one.
+28. When we seek to discover the best in others, we somehow bring out the best in ourselves.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -66,3 +67,6 @@
 33. measure: *v/n*，v：测量，度量，计量；估量，衡量；调整，调节；〈诗〉经过（一段距离），走过；判定（重要性、价值或影响等）；斟酌，权衡；(指尺寸、长短、数量等)量度为，有……长（或宽、高等）；打量；拿（自己或自己的力量等）作较量；用作……的（计）量器；〈诗〉定……的界，为……定界；n：措施，方法；尺度，标准；判断，衡量；（一定的）量，固定量；步骤；程度；数量；比例；度量单位，计量单位，计量标准；量器，量具；议案，法令；限度，适度，分寸；〈音〉拍子，小节；〈诗〉曲调，歌曲；〈古〉（尤指缓慢而庄重的）舞蹈，舞步；已知量；标准量；〈印〉行宽，页宽
 34. insecurities: *n*,n：不牢靠；不安全；无保障；不放心；心神不定；局促不安；insecurity的复数
 35. kind: *adj/n*, adj：友好的；友善的；宽容的；体贴的；慈祥的；客气请求或命令；n：种类；同类的人(或事物)
+36. seek to: 试图；设法；力图;
+37. seek: *v*, v：寻找；寻求；寻求（或追求）…的；试图；谋求；争取；(向人)请求
+38. somehow: *adv*，adv：以某种方式(或方法)；不知为什么；不知怎么地；由于某种未知的原因
