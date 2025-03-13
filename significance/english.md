@@ -29,6 +29,7 @@
 26. Be kind whenever possible. It is always possible.
 27. You cannot start the next chapter of your life if you keep re-reading the last one.
 28. When we seek to discover the best in others, we somehow bring out the best in ourselves.
+29. There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
