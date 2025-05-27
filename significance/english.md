@@ -30,6 +30,12 @@
 27. You cannot start the next chapter of your life if you keep re-reading the last one.
 28. When we seek to discover the best in others, we somehow bring out the best in ourselves.
 29. There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
+30. If we did all the things we are capable of, we would literally astound ourselves.
+31. Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you.
+32. Outer order contributes to inner calm.
+33. Don’t stumble over something behind you.
+34. One bad chapter does not make the book of your life.
+35. Your relationship with yourself sets the tone for every other relationship you have.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -71,3 +77,11 @@
 36. seek to: 试图；设法；力图;
 37. seek: *v*, v：寻找；寻求；寻求（或追求）…的；试图；谋求；争取；(向人)请求
 38. somehow: *adv*，adv：以某种方式(或方法)；不知为什么；不知怎么地；由于某种未知的原因
+39. astound: *vt*, vt：(使)震惊；使大惊
+40. merit: *n/vt*, n：优点；价值；功绩；长处；(学校或大学考试或作业的)良好；美德；值得赞扬(或奖励、钦佩)的特点；vt：应得；值得
+41. seriously: *adv*, adv：认真地；非常；严重地；严肃地；极其；(用于句首，表示转为谈正事)说正经的，说实在的
+42. criticism: *n*, n：批评；批判；(尤指对书、音乐等的)评论文章，评论；指责；责备
+43. calm: *adj/vt/n*, adj：平静的；镇静的；沉着的；风平浪静的；无风的；vt：使平静；使镇静；n：平静的时期；宁静的状态；泰然自若
+44. order: *n/v*, n：顺序；秩序；次序；指示；订货；（秘密）社团，集团，结社；治安；（生物分类的）目；点菜；勋章；阶级；规矩；宗教团体；条理；付款指令（或委托书）；所订的货物；授勋的人；v：命令；要求；组织；订购；点(酒菜等)；订货；指挥；要求提供服务 
+45. stumble over: *v*, v：绊倒；结巴；结结巴巴地说
+46. tone: *n/v*, n：语气；色调；（说话的）声调，音调；（字的）声调；(尤指乐器或电子音响设备的)音质，音色；口气；风格；口吻；腔调；气氛；声音信号；情调；特色；（肌肉）结实，健壮；全音；v：与…协调；与…相配；使更有力；使更健壮；使更结实
