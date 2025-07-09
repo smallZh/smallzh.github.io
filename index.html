@@ -14,33 +14,20 @@
 <script>
     window.$docsify = {
         name: 'smallzh',
-        repo: 'https://github.com/smallzh',
+        repo: '',
         coverpage: true,
+        onlyCover: true,
         loadSidebar: true,
+        maxLevel: 1,
         subMaxLevel: 2,
         auto2top: true,
-        search: {
-            paths: 'auto',
-            placeholder: {
-                '/zh-cn/': '搜索',
-                '/': 'Type to search',
-            },
-            noData: {
-                '/zh-cn/': '找不到结果',
-                '/': 'No Results',
-            },
-            depth: 2,
-            hideOtherSidebarContent: false,
-            namespace: 'small_zh_top_ws',
-        }
+        autoHeader: false,
+        regExUrl: /\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?/
     }
 </script>
 <!-- Docsify v4 -->
 <script src="./_assets/js/docsify.js"></script>
 <script src="./_assets/js/navigate.js"></script>
-<script src="./_assets/js/plugins/search.min.js"></script>
-<script src="./_assets/js/plugins/docsify-sidebar-collapse.min.js"></script>
 <script src="./_assets/js/plugins/emoji.min.js"></script>
-<script src="./_assets/js/plugins/vanilla-back-to-top.min.js"></script>
 </body>
 </html>
