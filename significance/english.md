@@ -36,6 +36,7 @@
 33. Don’t stumble over something behind you.
 34. One bad chapter does not make the book of your life.
 35. Your relationship with yourself sets the tone for every other relationship you have.
+36. The best way to cheer yourself up is to try to cheer somebody else up.
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -85,3 +86,4 @@
 44. order: *n/v*, n：顺序；秩序；次序；指示；订货；（秘密）社团，集团，结社；治安；（生物分类的）目；点菜；勋章；阶级；规矩；宗教团体；条理；付款指令（或委托书）；所订的货物；授勋的人；v：命令；要求；组织；订购；点(酒菜等)；订货；指挥；要求提供服务 
 45. stumble over: *v*, v：绊倒；结巴；结结巴巴地说
 46. tone: *n/v*, n：语气；色调；（说话的）声调，音调；（字的）声调；(尤指乐器或电子音响设备的)音质，音色；口气；风格；口吻；腔调；气氛；声音信号；情调；特色；（肌肉）结实，健壮；全音；v：与…协调；与…相配；使更有力；使更健壮；使更结实
+47. cheer: *v/n*, v：欢呼；加油；喝彩；鼓励；鼓舞;n：欢呼声；喝彩声；欢乐(或幸福)的气氛；(拉拉队的)加油歌，加油诗

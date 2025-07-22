@@ -40,4 +40,8 @@
 # links
 [https://docsify.js.org](https://docsify.js.org/#/)
 
-[https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
+[https://marked.js.org/](https://marked.js.org/)
+
+[http://typo.sofi.sh](http://typo.sofi.sh)
+
+[https://commonmark.org/](https://commonmark.org/)
