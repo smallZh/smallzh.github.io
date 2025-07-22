@@ -4,7 +4,7 @@
 1. 谷歌浏览器，设置 中文简体语言
 2. utools，网站：https://www.u-tools.cn/
 3. greenhub，网站：https://greenhubtx.com/
-4. Window的WindowTerminal，网站：
+4. Window的WindowTerminal，网站：https://github.com/microsoft/terminal
 5. nushell，网站：https://www.nushell.sh/
 6. joplin，网站：https://joplinapp.org/
 7. docker，网站：https://www.docker.com/products/docker-desktop/
@@ -25,7 +25,8 @@
 8. postgresql-13，网站：https://www.enterprisedb.com/download-postgresql-binaries。  
 
 ##  0x03.工具软件
-1. navicat，16破解版，网盘目录：/工具/DB工具/navicat16工具.zip
-2. idea2021.1.3，百度网盘：/工具/IntelJ工具应对方式/ideaIU2021
-3. PyCharm2021.1.3，百度网盘：/工具/IntelJ工具应对方式/
+1. navicat，官网：https://www.navicat.com.cn/
+2. BeekeeperStudio，官网：https://www.beekeeperstudio.io/  [github地址](https://github.com/beekeeper-studio/beekeeper-studio)
+2. idea2021.1.3，官网：https://www.jetbrains.com.cn/idea/download/other.html
+3. PyCharm2021.1.3，官网：https://www.jetbrains.com.cn/pycharm/download/other.html
 4. vscode，网站：https://code.visualstudio.com/docs/?dv=win64user
