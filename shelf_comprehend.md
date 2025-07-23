@@ -38,10 +38,8 @@
 2、 [中文精句](/significance/chinese)
 
 # links
-[https://docsify.js.org](https://docsify.js.org/#/)
-
-[https://marked.js.org/](https://marked.js.org/)
-
-[http://typo.sofi.sh](http://typo.sofi.sh)
-
-[https://commonmark.org/](https://commonmark.org/)
+1. docsify: [https://docsify.js.org](https://docsify.js.org/#/)
+2. marked.js: [https://marked.js.org/](https://marked.js.org/)
+3. typo.css: [http://typo.sofi.sh](http://typo.sofi.sh)
+4. markdown: [https://commonmark.org/](https://commonmark.org/)
+5. toml: [https://toml.io/en/](https://toml.io/en/) [github网址](https://github.com/toml-lang/toml)
