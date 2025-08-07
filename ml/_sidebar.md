@@ -7,3 +7,4 @@
 * [6. 神经网络](/ml/neural_network.md)
 * [0x1. GPU调用](/ml/gpu.md)
 * [0x2. Llm相关](/ml/llm_concept.md)
+* [0x3. 机器学习相关的各种App](/ml/ml_apps.md)
