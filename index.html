@@ -6,12 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="./_assets/css/mermaid.min.css">
     <link rel="stylesheet" href="./_assets/css/vue.css">
     <link rel="stylesheet" href="./_assets/css/smallzh.css">
+    <script src="./_assets/js/mermaid.min.js"></script>
 </head>
 <body>
 <div id="app">Loading...</div>
 <script>
+    mermaid.initialize({ startOnLoad: false });
+
     window.$docsify = {
         name: 'smallzh',
         repo: '',
@@ -24,7 +28,20 @@
         auto2top: true,
         autoHeader: false,
         maxAge: 0,
-        regExUrl: /\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?/
+        regExUrl: /\/\/[\w\-_]+(\.[\w\-_]+)+([\w\-\.,@?^=%&amp;:/~\+#]*[\w\-\@?^=%&amp;/~\+#])?/,
+		executeScript: true,
+        markdown: {
+           renderer: {
+             code: function(code, lang) {
+              if (lang === "mermaid") {
+                return (
+                 '<pre class="mermaid">' + code + "</pre>"
+                );
+              }
+              return this.origin.code.apply(this, arguments);
+           }
+        }
+      }
     }
 </script>
 <!-- Docsify v4 -->
