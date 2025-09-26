@@ -37,6 +37,7 @@
 34. One bad chapter does not make the book of your life.
 35. Your relationship with yourself sets the tone for every other relationship you have.
 36. The best way to cheer yourself up is to try to cheer somebody else up.
+37. There’s no such things as a small act of kindness. Every act creates a ripple with no logical end.(故事精彩的本质)
 
 ## 2. 单词
 1. alone: *adj/adv*，单独；独自；仅仅，单，只；唯一，只有；孤独；单独地；寂寞；独力；孤苦伶仃；无依无靠
@@ -87,3 +88,6 @@
 45. stumble over: *v*, v：绊倒；结巴；结结巴巴地说
 46. tone: *n/v*, n：语气；色调；（说话的）声调，音调；（字的）声调；(尤指乐器或电子音响设备的)音质，音色；口气；风格；口吻；腔调；气氛；声音信号；情调；特色；（肌肉）结实，健壮；全音；v：与…协调；与…相配；使更有力；使更健壮；使更结实
 47. cheer: *v/n*, v：欢呼；加油；喝彩；鼓励；鼓舞;n：欢呼声；喝彩声；欢乐(或幸福)的气氛；(拉拉队的)加油歌，加油诗
+48. act: *n/v*, n：行为，行动，所为；(议会通过的)法案，法令；表演，假装；一幕；表演者；一段表演; v：行为；行动；充当；表演，假装；扮演；举止；做事；（对…）有作用，有影响；
+49. kindness: *n*, n：善良；仁慈；宽容；体贴；友好的举动
+50. ripple: *n/v*, n：波纹；涟漪；细浪；起伏的声音；逐渐扩散的感觉；(外观或运动)如波纹的东西; v：扩散；涌起
